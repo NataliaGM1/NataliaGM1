@@ -1,7 +1,11 @@
-### Hi there 👋
+### Hola👋  
+ 
+ 
 
-<!--
-**NataliaGM1/NataliaGM1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me gusta aprender y superarme cada día.
+
+Actualmente estoy en el Bootcamp de desarrollo full stack con Factoria F5.
+
 
 Here are some ideas to get you started:
 
