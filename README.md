@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Natalia.
 #### I like to learn and improve myself every day.
-![I like to learn and improve myself every day.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I like to learn and improve myself every day.]("C:\Users\ngmih\Desktop\Banner github.mp4")
 
 I am currently in the full stack development Bootcamp with Factoria F5 for 6 months.
 
