@@ -10,7 +10,13 @@
 I am currently in the full stack development Bootcamp with Factoria F5 for 6 months.
 
 
-- 🌱 I’m currently learning HTML, CSS 
+- 🌱 I’m currently learning:
+
+                              -HTML, CSS, JavaScript, Java
+
+                              -Angular, SpringBoot
+
+                              -Jira, SCRUM, Confluence
 - 📫 How to reach me: ngmihalache@gmail.com 
 - ⚡ Fun fact: I am a Naturopath, I love coaching and personal development. 
 
