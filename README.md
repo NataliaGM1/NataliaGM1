@@ -14,10 +14,11 @@ I am currently in the full stack development Bootcamp with Factoria F5 for 6 mon
 
                               -HTML, CSS, JavaScript, Java
 
-                              -Angular, SpringBoot
+                              -Angular, SpringBoot, MySql, Node js
 
-                              -Jira, SCRUM, Confluence
-- 📫 How to reach me: ngmihalache@gmail.com 
+                              -Git, GitHub, Jira, SCRUM, Confluence
+  
+- 📫 How to reach me: ngmihalache@gmail.com // www.linkedin.com/in/natalia-gabriela
 - ⚡ Fun fact: I am a Naturopath, I love coaching and personal development. 
 
 
