@@ -3,7 +3,7 @@
 </br>
 
 
-- 🌱 I’m currently  in the full stack development Bootcamp with Factoria F5 for 6 months.
+- 🌱 I trained in a 850-hour full stack programming bootcamp with Factoria F5.
 - 📫 How to reach me: ngmihalache@gmail.com // www.linkedin.com/in/natalia-gabriela // https://github.com/NataliaGM1
   
 - ⚡ Fun fact: I am a Naturopath, I love coaching and personal development.
